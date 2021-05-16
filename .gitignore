@@ -89,6 +89,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+webscrapreddit/
+.webscrapreddit
+webscrapreddit.bak/
 
 # Spyder project settings
 .spyderproject
